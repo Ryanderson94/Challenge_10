@@ -1,6 +1,6 @@
 # Unsupervised Learning w Crypto
 
-TBC
+This Python application highlights the fundamentals of unsupervised learning by analyzing performance of cryptocurrencies. It illustrates the importance of finding optimal k-values for KMeans, the power of the elbow-graph visualization and finally, optimizing clusters for principal component analysis (or PCA). 
 
 # Technologies
 
